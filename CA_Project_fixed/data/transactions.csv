@@ -1,0 +1,8 @@
+ID,DateTime,Sender,Receiver,Amount,Type,Method,Category,Status,RefNumber,Description
+1,2026-01-05 10:15:00,Amit,Shop A,1250.50,Debit,UPI,Shopping,Successful,REF001,Groceries
+2,2026-01-06 09:00:00,Company,Amit,50000.00,Credit,Bank Transfer,Salary,Successful,REF002,
+3,2026-01-07 18:30:00,Amit,Cafe,320.00,Debit,Debit Card,Food,Failed,REF003,Dinner
+4,2026-01-08 12:00:00,Alice,Bob,500.00,Debit,UPI,Food,Successful,REF004,Lunch
+5,2026-02-01 14:20:00,Rohan,Maya,1500.00,Credit,Bank Transfer,Salary,Successful,REF005,Bonus Payment
+6,2026-10-26 12:45:46,jassi,akshit beta,5000.00,Debit,UPI,Shopping,Successful,REF268728,shopping
+7,2026-10-26 12:45:46,jassi,akshit beta,5000.00,Debit,UPI,Shopping,Successful,REF268728,shopping

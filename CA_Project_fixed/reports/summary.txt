@@ -1,0 +1,12 @@
+=== Overall Summary ===
+Total Transactions: 5
+Successful: 4
+Failed: 1
+Pending: 0
+Refunded: 0
+Total Credit: ₹51500.00
+Total Debit: ₹2070.50
+Net Balance: ₹49429.50
+Average Amount: 10714.10 INR
+Highest Transaction: ID 2 Amount ₹50000.00
+Lowest Transaction: ID 3 Amount ₹320.00
